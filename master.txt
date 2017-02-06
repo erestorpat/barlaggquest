@@ -1,3 +1,4 @@
 <Version: 1.01>
 /data/Map001.json http://www.barlaggquest.ca/versions/demo/data/Map001.json
+/storage/emulated/0/Android/obb/ca.barlaggquest.darkforest/data/Map001.json http://www.barlaggquest.ca/versions/demo/data/Map001.json
 <End of Version>
